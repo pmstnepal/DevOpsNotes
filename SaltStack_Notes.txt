@@ -1,4 +1,4 @@
------------------SALT STACK---------
+----------------SALT STACK---------
 it is a configuration management tools
 Python based, open source remote execution tool
 remote execution means run commands on various machines in parallel with flexible targeting system
@@ -73,7 +73,7 @@ salt 'min*' file.touch '/tmp/1.txt'
 salt 'min*' file.write '/tmp/1.txt' 'salt stack'
 salt 'min1' grains.items
 
-
+thumbsup
 
 
 ---On Minion
